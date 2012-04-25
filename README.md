@@ -1,13 +1,21 @@
-xwindow (WEB ×ÀÃæ¡¢´°¿Ú¡¢±íµ¥¿Ø¼ş)
-=======
-To create a project or something base on jquery,contains windows desktop and winform used in web development
-´´½¨Ò»¸ö»ùÓÚjqueryµÄÍêÕûµÄ×ÀÃæ¡¢´°¿Ú¡¢±íµ¥µÄ¿Ø¼ş£¬Ä£·Âwindows&&linux´°ÌåĞ§¹û
-Õâ¸ö²¢²»ÊÇÒ»¸öÍêÕûµÄ»òÕßÍêÈ«µÄjquery²å¼ş£¬¶øÊÇ»ùÓÚjqueryµÄxwindow£¬ÏîÄ¿°üº¬css¡¢js¡¢html£¬ÓÃÕâĞ©Ò»ÆğÊµÏÖÀàËÆwebqqµÄ½çÃæĞ§¹û£¬²¢½«ÕâÖÖĞ§¹û×ö³ÉÒ»¸ö¿ò¼Ü£¬¸½´øÒ»Ğ©ÏîÄ¿
-Õâ¸öÏîÄ¿¸Õ¸Õ½¨Á¢£¬Ï£Íû¸ü¶àÈË¼ÓÈë
-Õâ¸öÏîÄ¿Ö¼ÔÚÎªweb¿ª·¢ÕßÌá¹©Ò»ÖÖĞÂµÄUIÑ¡Ôñ
-@todo ÊµÏÖdatagrid(treegrid¡¢propgrid)
-@todo ÊµÏÖwindow(window,message,dialog)
-@todo ÊµÏÖForm(lable¡¢valibox¡¢datebox¡¢numberbox)µÈµÈ
-@todo ÊµÏÖpannel
-@todo ÊµÏÖgruoup
-@todo ÆäËûĞèÒªÊµÏÖµÄÉĞÔÚ¹æ»®ÖĞ
+xwindow (WEB æ¡Œé¢ã€çª—å£ã€è¡¨å•æ§ä»¶) -- ONE WEB UI
+==================================================
+xwindow says:
+	To create a project or something base on jquery,contains windows desktop and winform used in web development,something like windows and linux.
+	Well,to be honest,this is not just a total or complete jquery plugin,accurately,accordding css,js and html,to achieve something like webqq.
+	So a new chooise of web UI frame to  web Design,enjoy it. 
+	@todo datagrid(treegrid,propgrid);
+	@todo window(window,msg,dialog,alert);
+	@todo form(valibox,datebox,numberbox);
+	@todo panel/grouppanel;
+	@todo to be planing;
+åˆ›å»ºå®£è¨€ï¼š
+	åˆ›å»ºä¸€ä¸ªåŸºäºjqueryçš„å®Œæ•´çš„æ¡Œé¢ã€çª—å£ã€è¡¨å•çš„æ§ä»¶ï¼Œæ¨¡ä»¿windows&&linuxæ¡Œé¢æ•ˆæœã€‚
+	è¿™ä¸ªå¹¶ä¸æ˜¯ä¸€ä¸ªå®Œæ•´çš„æˆ–è€…å®Œå…¨çš„jqueryæ’ä»¶ï¼Œè€Œæ˜¯åŸºäºjqueryçš„xwindowï¼Œé¡¹ç›®åŒ…å«cssã€jsã€htmlï¼Œç”¨è¿™äº›ä¸€èµ·å®ç°ç±»ä¼¼webqqçš„ç•Œé¢æ•ˆæœï¼Œå¹¶å°†è¿™ç§æ•ˆæœåšæˆä¸€ä¸ªæ¡†æ¶ã€‚
+	ä¸»è¦å€šé‡äºhtmlå’Œcssï¼Œä»è€Œå‡è½»jså¯¹æ•´ä¸ªæ¡†æ¶çš„å‹åŠ›ã€‚
+	è¿™ä¸ªé¡¹ç›®åˆšåˆšå»ºç«‹ï¼Œå¸Œæœ›æ›´å¤šäººåŠ å…¥è¿™ä¸ªé¡¹ç›®æ—¨åœ¨ä¸ºwebå‰ç«¯å¼€å‘è€…æä¾›ä¸€ç§æ–°çš„ç•Œé¢æ¡†æ¶é€‰æ‹© 
+	@todo å®ç°æ•°æ®è¡¨æ ¼(æ ‘å½¢æ•°æ®è¡¨æ ¼ã€å±æ€§æ•°æ®è¡¨æ ¼) 
+	@todo å®ç°çª—å£(çª—å£,æ¶ˆæ¯,å¯¹è¯æ¡†,ç”šè‡³å†’æ³¡æç¤º) 
+	@todo å®ç°è¡¨å•é¡¹(æ–‡æœ¬æ¡†ã€æ—¥æœŸé€‰æ‹©å™¨ã€æ•°å­—è¾“å…¥æ¡†)ç­‰ç­‰ 
+	@todo å®ç°é¢æ¿/ç»„é¢æ¿
+	@todo å…¶ä»–éœ€è¦å®ç°çš„å°šåœ¨è§„åˆ’ä¸­
